@@ -6,4 +6,32 @@
     android:layout_height="match_parent"
     tools:context=".Ingresos">
 
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv8"
+        tools:layout_editor_absoluteX="171dp"
+        tools:layout_editor_absoluteY="24dp" />
+
+    <EditText
+        android:id="@+id/edtn_1_i"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/edtn_1_i"
+        android:inputType="number"
+        android:textAlignment="textEnd"
+        tools:layout_editor_absoluteX="136dp"
+        tools:layout_editor_absoluteY="75dp" />
+
+    <EditText
+        android:id="@+id/edt_1_i"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/edt_1_i"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="136dp"
+        tools:layout_editor_absoluteY="151dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
