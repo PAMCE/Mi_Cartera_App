@@ -10,28 +10,34 @@
         android:id="@+id/textView8"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="176dp"
+        android:layout_marginTop="24dp"
         android:text="@string/tv8"
-        tools:layout_editor_absoluteX="171dp"
-        tools:layout_editor_absoluteY="24dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
         android:id="@+id/edtn_1_i"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="32dp"
         android:ems="10"
         android:hint="@string/edtn_1_i"
         android:inputType="number"
         android:textAlignment="textEnd"
-        tools:layout_editor_absoluteX="136dp"
-        tools:layout_editor_absoluteY="75dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView8" />
 
     <EditText
         android:id="@+id/edt_1_i"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="56dp"
         android:ems="10"
         android:hint="@string/edt_1_i"
         android:inputType="textPersonName"
-        tools:layout_editor_absoluteX="136dp"
-        tools:layout_editor_absoluteY="151dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edtn_1_i" />
 </androidx.constraintlayout.widget.ConstraintLayout>
