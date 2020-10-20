@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mi Cartera App</string>
+
+    <string name="tv1">Pantalla de inicio</string>
+    <string name="btn1">+ Ingreso</string>
+    <string name="btn2">- Gasto</string>
+    <string name="btn3">Movimientos</string>
+    <string name="tv2">Balance Mensual + remanentes</string>
+    <string name="tv3">aqui va la fecha</string>
+    <string name="tv4">Ingreso:</string>
+    <string name="tv5">Saldo anterior:</string>
+    <string name="tv6">Gasto:</string>
+    <string name="tv7">Saldo actual:</string>
+    <string name="edtn1">0.00</string>
+    <string name="edtn2">0.00</string>
+    <string name="edtn3">0.00</string>
+    <string name="edtn4">0.00</string>
+
+
+
+    //activity 2
+
+
+
+
+</resources>
