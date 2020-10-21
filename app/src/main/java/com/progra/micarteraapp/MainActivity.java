@@ -28,5 +28,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(Gastos);
     }
 
+    public void BtnMovimientos(View view){
+        Intent Movimientos = new Intent(this,Movimientos.class);
+        startActivity(Movimientos);
+    }
+
 
 }

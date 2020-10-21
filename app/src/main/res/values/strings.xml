@@ -17,13 +17,11 @@
     <string name="edtn4">0.00</string>
 
 
-    //activity 2   -- ingresos --
+
     <string name="tv8">Ingresos</string>
     <string name="edtn_1_i">0</string>
     <string name="edt_1_i">Escriba una descripcion brebe</string>
-
-
-
+    <string name="btnInicio">Inicio</string>
 
 
 </resources>
