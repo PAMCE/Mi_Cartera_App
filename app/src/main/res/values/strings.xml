@@ -18,10 +18,14 @@
 
 
 
-    <string name="tv8">Ingresos</string>
+    <string name="tv8"> Agregar Ingresos</string>
     <string name="edtn_1_i">0</string>
     <string name="edt_1_i">Escriba una descripcion brebe</string>
     <string name="btnInicio">Inicio</string>
+
+    <string name="tv9">Agregar Gastos</string>
+    <string name="edtn_1_g">0</string>
+
 
 
 </resources>
