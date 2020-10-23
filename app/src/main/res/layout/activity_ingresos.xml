@@ -39,10 +39,10 @@
         android:hint="@string/edt_1_i"
         android:inputType="textPersonName"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/spinner" />
+        app:layout_constraintTop_toBottomOf="@+id/spinner2" />
 
     <Spinner
-        android:id="@+id/spinner"
+        android:id="@+id/spinner2"
         android:layout_width="282dp"
         android:layout_height="83dp"
         android:layout_marginStart="64dp"
